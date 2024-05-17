@@ -1,0 +1,18 @@
+current directory: /Users/su-san/sample/sample/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/su-san/.rbenv/versions/3.1.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/su-san/sample/sample/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240518-14624-phecqe sitelibdir\=./.gem.20240518-14624-phecqe clean
+
+current directory: /Users/su-san/sample/sample/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240518-14624-phecqe sitelibdir\=./.gem.20240518-14624-phecqe
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/su-san/sample/sample/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240518-14624-phecqe sitelibdir\=./.gem.20240518-14624-phecqe install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240518-14624-phecqe/racc
+
+current directory: /Users/su-san/sample/sample/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240518-14624-phecqe sitelibdir\=./.gem.20240518-14624-phecqe clean

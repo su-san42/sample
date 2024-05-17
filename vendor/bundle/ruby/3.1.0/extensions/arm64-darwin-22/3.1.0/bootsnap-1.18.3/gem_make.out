@@ -1,0 +1,22 @@
+current directory: /Users/su-san/sample/sample/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+/Users/su-san/.rbenv/versions/3.1.0/bin/ruby extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/su-san/sample/sample/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240518-14624-hltr5l sitelibdir\=./.gem.20240518-14624-hltr5l clean
+
+current directory: /Users/su-san/sample/sample/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240518-14624-hltr5l sitelibdir\=./.gem.20240518-14624-hltr5l
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/su-san/sample/sample/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240518-14624-hltr5l sitelibdir\=./.gem.20240518-14624-hltr5l install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20240518-14624-hltr5l/bootsnap
+
+current directory: /Users/su-san/sample/sample/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240518-14624-hltr5l sitelibdir\=./.gem.20240518-14624-hltr5l clean
